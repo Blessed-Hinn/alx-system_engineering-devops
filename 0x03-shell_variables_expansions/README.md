@@ -3,3 +3,4 @@
 2-path adds a directory to path
 4-global_variables displays global variables
 5-local_variables lists local variables
+6-create_local_variable creates local variables
