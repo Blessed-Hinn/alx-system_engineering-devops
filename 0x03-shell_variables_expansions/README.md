@@ -9,3 +9,4 @@
 9-divide_and_rule For division
 11-binary_to_decimal cinverts binary to decimal
 13-print_float file Rounds off numbers to 2dp
+10-love_exponent_breath is about exponential
