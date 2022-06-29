@@ -7,3 +7,4 @@
 7-create_global_variable creates a global variable
 8-true_knowledge does summation
 9-divide_and_rule For division
+11-binary_to_decimal cinverts binary to decimal
